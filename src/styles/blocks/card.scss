@@ -6,6 +6,7 @@
   box-sizing: border-box;
   width: 200px;
   height: 408px;
+  padding: 32px 16px 16px;
   border: 1px solid var(--cl-card-border-color);
   border-radius: var(--border-radius);
 
@@ -16,12 +17,8 @@
   transition: all 0.3s ease;
 }
 
-.card__content {
-  margin: 32px 16px;
-}
-
 .card__image {
-  margin: 0 3px 40px;
+  margin: 0 3px 36px;
 }
 
 .card__image img {

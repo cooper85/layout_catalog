@@ -9,6 +9,9 @@ npx parcel src/index.html
 Для финальной сборки — npm run build.
 Почему, как думаешь, hot reload удобнее для верстки?
 
+# stylelint
+IDE settings: run stylelint --fix on save (save up 15% of dev time)
+
 # Frontend practice with catalog page
 
 Create an HTML page with a catalog. Develop semantic page structure as shown on [the mockup](https://www.figma.com/file/ojkArVazq7vsX0nbpn9CxZ/Moyo-%2F-Catalog-(ENG)?node-id=32249%3A354).

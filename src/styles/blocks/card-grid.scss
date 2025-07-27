@@ -14,10 +14,9 @@
   gap: var(--card-horizontal-gap) var(--card-vertical-gap);
   justify-content: center;
 
-  margin-top: 50px;
-
   /* cards padding */
   padding: var(--cards-container-padding-vertical) var(--cards-container-padding-vertical);
+  padding-top: 50px;
 }
 
 @media screen and (max-width: $breakpoint-s) {
