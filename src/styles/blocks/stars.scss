@@ -1,5 +1,7 @@
 .card__rating-stars {
   display: flex;
+  justify-content: space-between;
+  width: 96px;
 }
 
 .card__rating-star {
